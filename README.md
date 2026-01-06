@@ -134,7 +134,9 @@ scenario-based analysis.
 ## Future Work
 
 1.Time-series modeling of emissions trends
+
 2.Sector-wise emissions decomposition
+
 3.Energy transition and policy scenario analysis
 
 ## Author
