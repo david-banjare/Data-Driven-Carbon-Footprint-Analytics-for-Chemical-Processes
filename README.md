@@ -16,7 +16,7 @@ interpretation rather than black-box prediction.
 ## Dataset
 - **Source:** Our World in Data (OWID) – CO₂ and Greenhouse Gas Emissions  
 - **Coverage:** Global, multi-country, multi-year  
-- **Link:** https://github.com/owid/co2-data  
+- **Link:** [https://github.com/owid/co2-data ](https://owid-public.owid.io/data/co2/owid-co2-data.csv) 
 
 The dataset contains a wide range of emissions, energy, and economic
 indicators. For this study, only variables directly relevant to carbon
