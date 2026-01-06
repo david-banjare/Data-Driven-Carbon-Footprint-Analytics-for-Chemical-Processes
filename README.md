@@ -89,7 +89,8 @@ Feature importance and SHAP analysis consistently identify:
 3. Fossil fuel–specific emissions (oil, coal, flaring)
 4. GDP (secondary, indirect role)
 
-i.e energy_per_capita
+i.e 
+- energy_per_capita
 - oil_co2
 - population
 - coal_co2
