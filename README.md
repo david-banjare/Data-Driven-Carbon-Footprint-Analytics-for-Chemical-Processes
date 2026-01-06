@@ -89,6 +89,12 @@ Feature importance and SHAP analysis consistently identify:
 3. Fossil fuel–specific emissions (oil, coal, flaring)
 4. GDP (secondary, indirect role)
 
+i.e energy_per_capita
+- oil_co2
+- population
+- coal_co2
+- gdp
+
 These results are consistent with established emissions theory,
 including the **Kaya identity**, confirming that the model learns
 physically meaningful relationships rather than spurious correlations.
@@ -109,12 +115,12 @@ physically meaningful relationships rather than spurious correlations.
 
 ## Tools and Libraries
 
-Python
-pandas, numpy
-scikit-learn
-matplotlib, seaborn
-SHAP
-Jupyter Notebook
+- Python
+- pandas, numpy
+- scikit-learn
+- matplotlib, seaborn
+- SHAP
+- Jupyter Notebook
 
 ## Conclusion
 
